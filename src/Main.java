@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Laver nogle simpel formede objekter");
+        System.out.println("Laver nogle simple formede objekter...");
         Shape rectangle = new Rectangle();
         Shape circle = new Circle();
-        System.out.println("Tegner nogle simpel formede objekter");
+        System.out.println("Tegner nogle simple formede objekter...");
         rectangle.draw();
         System.out.println();
         circle.draw();
